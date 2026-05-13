@@ -24,7 +24,6 @@ Atualmente aprendendo e explorando:
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmgShesaWitch&layout=compact&theme=tokyonight)
 
 ## ferramentas
 
