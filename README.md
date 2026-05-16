@@ -8,6 +8,7 @@ Atualmente aprendendo e explorando:
 - JavaScript
 - Programação Orientada a Objetos
 - Estruturas de Dados
+- APIs e manipulação de dados
 
 ## interesses
 - automação
@@ -15,6 +16,7 @@ Atualmente aprendendo e explorando:
 - desenvolvimento web
 - interfaces
 - lógica e resolução de problemas
+- APIs e integração de sistemas
 
 ## tecnologias
 
@@ -23,6 +25,7 @@ Atualmente aprendendo e explorando:
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 
 
 ## ferramentas
@@ -30,6 +33,12 @@ Atualmente aprendendo e explorando:
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
 ![Selenium](https://img.shields.io/badge/Selenium-111111?style=for-the-badge&logo=selenium)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
+
+### No momento: 
+
+Desenvolvendo projetos pessoais focados em análise de dados climáticos, automação e APIs utilizando Python.
+
 
 ## projetos
 Aqui ficam meus projetos pessoais, experimentos e trabalhos da faculdade.
