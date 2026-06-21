@@ -34,11 +34,3 @@ Atualmente aprendendo e explorando:
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
 ![Selenium](https://img.shields.io/badge/Selenium-111111?style=for-the-badge&logo=selenium)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
-
-### No momento: 
-
-Desenvolvendo projetos pessoais focados em análise de dados climáticos, automação e APIs utilizando Python.
-
-
-## projetos
-Aqui ficam meus projetos pessoais, experimentos e trabalhos da faculdade.
