@@ -36,4 +36,4 @@ Atualmente aprendendo e explorando:
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
 
 
-- O que você sabe não tem valor, o valor está no que você faz com o que sabe!
+> O que você sabe não tem valor, o valor está no que você faz com o que sabe!
