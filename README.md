@@ -1,24 +1,24 @@
-# 👾 Olá
+# 👾 Hello
 
-Sou uma estudante de tecnologia interessada em automação, dados e desenvolvimento web.
+I'm a technology student interested in automation, data, and web development.
 
-Atualmente aprendendo e explorando:
+Currently learning and exploring:
 - Python
 - C
 - JavaScript
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- APIs e manipulação de dados
+- Object-Oriented Programming
+- Data Structures
+- APIs and Data Manipulation
 
-## interesses
-- automação
-- scraping e manipulação de dados
-- desenvolvimento web
-- interfaces
-- lógica e resolução de problemas
-- APIs e integração de sistemas
+## Interests
+- Automation
+- Web scraping and data manipulation
+- Web development
+- User interfaces
+- Logic and problem-solving
+- APIs and system integration
 
-## tecnologias
+## Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
@@ -27,13 +27,11 @@ Atualmente aprendendo e explorando:
 ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 
-
-## ferramentas
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
 ![Selenium](https://img.shields.io/badge/Selenium-111111?style=for-the-badge&logo=selenium)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
 
-
-> O que você sabe não tem valor, o valor está no que você faz com o que sabe!
+> What you know has no value. The real value lies in what you do with what you know.
